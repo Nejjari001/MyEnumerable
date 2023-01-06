@@ -24,7 +24,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Morse Code <a name="about-project"></a>
+# 📖 Ruby-Enumerator <a name="about-project"></a>
 
 This program creates a class MyList and a module MyEnumerable.
 The module MyEnumerable implements a subset of the functionality of Enumerable.
