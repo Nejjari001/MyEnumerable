@@ -56,6 +56,19 @@ The module MyEnumerable implements a subset of the functionality of Enumerable.
 
 To get a local copy up and running, follow these steps.
 
+### Setup
+
+Clone this [repository](https://github.com/Nejjari001/MyEnumerable) to your desired folder:
+`git clone https://github.com/Nejjari001/MyEnumerable.git`
+
+### Install
+
+Install this project with:
+
+- Navigate to the Repo Folder
+- `cd MyEnumerable`
+
+
 ### Prerequisites
 
 In order to run this project you need:
@@ -76,10 +89,8 @@ Example command:
 
 Clone this repository to your desired folder:
 
-- Click on the green button on the top right corner with the text code
-- Click on SSH
-- Copy the text that appears below
-- Type "git clone" in your terminal and past the copied text next to "git clone" and press enter
+-`ruby -r "./my_list.rb" -e "p MyList.new(1,2,4)"`
+
 <!--
 Example commands:
 
