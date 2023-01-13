@@ -12,9 +12,9 @@ module MyEnumerable
     puts false
   end
 
-  def filter
-    @arr = []
-    @list.each { |i| @arr.push(i) if yield i }
-    print "#{@arr} \n"
-  end
-end
+#   def filter
+#     @arr = []
+#     @list.each { |i| @arr.push(i) if yield i }
+#     print "#{@arr} \n"
+#   end
+# end
